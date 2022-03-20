@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://krisnandaiqbal.io)
-<h1 align="center">Hi !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />, I'm KrisnandaIqbal <img src="https://c.tenor.com/eT_e-q0D5xoAAAAC/long-livethe-blob-sunglasses.gif" width="50px"  /> </h1>
+<h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />, I'm KrisnandaIqbal <img src="https://c.tenor.com/eT_e-q0D5xoAAAAC/long-livethe-blob-sunglasses.gif" width="50px"  /> </h1>
 <h3 align="center">A passionate student from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"
 
