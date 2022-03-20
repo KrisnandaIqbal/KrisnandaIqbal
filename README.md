@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm KrisnandaIqbal</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />, I'm KrisnandaIqbal</h1>
 <h3 align="center">A passionate student from Indonesia</h3>
 
 <p align="left"> <a href="https://twitter.com/crxxpys" target="blank"><img src="https://img.shields.io/twitter/follow/crxxpyys?logo=twitter&style=for-the-badge" alt="crxxpyys" /></a> </p>
 
 - 🔭 I’m currently studying Information Technology at **Walisongo Islamic State University**
 
-- 🌱 I’m currently learning **Flutter, HTML, CSS**
+- 🌱 I’m currently learning **Dart, Flutter, HTML, CSS, and Figma**
 
 - 👯 I’m looking to collaborate on **Basic Mobile Dev Stuff**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **iqbal19250@gmail.com**
 
-- ⚡ Fun fact **I think i am a funny guy**
+- ⚡ Fun fact **I think i am a funny guy** <img src= "https://c.tenor.com/U9fgFrruh9wAAAAi/mikotill-smile.gif" width= "25px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
