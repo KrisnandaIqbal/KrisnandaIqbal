@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, HTML, CSS, and Figma**
 
-- 👯 I’m looking to collaborate on **Basic Mobile Dev Stuff**
+- 👯 I’m looking to collaborate on **Basic Frontend Dev and Kind of UI/UX**
 
 - 💬 Ask me about **Anything and Everything**
 
