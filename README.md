@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnandaiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="krisnandaiqbal" /> </p>
-<p align="left"> <a href="https://twitter.com/crxxpys" target="blank"><img src="https://img.shields.io/twitter/follow/iqbawlll?logo=twitter&style=for-the-badge" alt="iqbawlll" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iqbawlll" target="blank"><img src="https://img.shields.io/twitter/follow/iqbawlll?logo=twitter&style=for-the-badge" alt="iqbawlll" /></a> </p>
 
 - 🔭 I’m currently studying Information Technology at **Walisongo Islamic State University**
 
