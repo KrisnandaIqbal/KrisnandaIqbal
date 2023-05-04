@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently studying Information Technology at **Walisongo Islamic State University**
 
-- 🌱 I’m currently learning **Dart, Flutter, HTML, CSS, and Figma**
+- 🌱 I’m currently learning **HTML, CSS, and Figma**
 
 - 👯 I’m looking to collaborate on **Basic Frontend Dev and Kind of UI/UX**
 
 - 💬 Ask me about **Anything and Everything**
 
-- 📫 How to reach me : <a href="mailto:iqbal19250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iqbal19250@gmail.com"><a/>
+- 📫 How to reach me : <a href="mailto:krisnandaiqball@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krisnandaiqball@gmail.com"><a/>
 
 - ⚡ Fun fact **I think i am a funny guy** <img src= "https://c.tenor.com/U9fgFrruh9wAAAAi/mikotill-smile.gif" width= "25px" />
   
